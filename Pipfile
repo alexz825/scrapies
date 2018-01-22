@@ -11,6 +11,7 @@ scrapy = "*"
 "beautifulsoup4" = "*"
 lxml = "*"
 requests = "*"
+selenium = "*"
 
 
 [dev-packages]
