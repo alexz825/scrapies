@@ -16,4 +16,4 @@ selenium = "*"
 
 [dev-packages]
 
-pylint = "*"
+"autopep8" = "*"
