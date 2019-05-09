@@ -102,3 +102,4 @@ ENV/
 
 *.pyc
 item.json
+.vscode/
