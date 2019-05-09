@@ -30,7 +30,8 @@ def getShopAllGoods(content):
     print(soup2.prettify)
 
 
-def spider_taobao(url):
+# 爬虫商品详情页面
+def spider_spu_detail(url):
 
     headers = {
         "Accept": "application/json, text/plain, */*",
